@@ -4,9 +4,9 @@ var ReactDOM = require('react-dom');
 var Hello = React.createClass({
   render: function () {
     return (
-      <div>Me gusta la manana</div>
+      <div>Some random effing div.</div>
     )
   }
 });
 
-ReactDOM.render(<Hello />, document.body);
+ReactDOM.render(<Hello />, document.querySelector('#app'));
