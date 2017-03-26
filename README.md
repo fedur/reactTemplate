@@ -1,0 +1,1 @@
+Initial React project setup using, webpack, html-webpack-plugin and babel.

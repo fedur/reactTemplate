@@ -1,13 +1,13 @@
 {
-  "name": "githubBattle",
+  "name": "reactpjct",
   "version": "0.0.1",
-  "description": "academic project to learn to use react and battle github users based on scores",
+  "description": "React Template",
   "main": "index.js",
   "scripts": {
     "production": "webpack -p",
-    "start" : "webpack-dev-server"
+    "start": "webpack-dev-server"
   },
-  "author": "",
+  "author": "fedur",
   "license": "BSD-2-Clause",
   "dependencies": {
     "jquery": "~3.2.1"
@@ -21,5 +21,16 @@
     "webpack-dev-server": "~2.4.2",
     "react": "~15.4.2",
     "react-dom": "~15.4.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedur/reactTemplate.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "bugs": {
+    "url": "https://github.com/fedur/reactTemplate/issues"
+  },
+  "homepage": "https://github.com/fedur/reactTemplate#readme"
 }
